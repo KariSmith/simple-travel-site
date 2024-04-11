@@ -9,6 +9,16 @@ body {
 p {
     color: whitesmoke;
 }
-h1  {
-    color: aqua;
+table {
+    color: whitesmoke;
+    margin: auto;
+    border-collapse: collapse;
+}
+th,td{
+    text-align: left;
+    padding: 1rem;
+    border: 1px solid whitesmoke;
+}
+tr,td {
+    border: 1px solid whitesmoke
 }
