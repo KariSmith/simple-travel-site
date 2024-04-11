@@ -22,3 +22,9 @@ th,td {
 tr,td {
     border: 1px solid whitesmoke
 }
+img {
+    height: 200px;
+    width: 300px;
+    border-radius: 4rem;
+    border: 3px solid whitesmoke;
+}
